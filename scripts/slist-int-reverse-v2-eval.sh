@@ -1,3 +1,7 @@
+#!/bin/bash
+set -eo pipefail
+
+./scripts/build.sh -DCMAKE_BUILD_TYPE=Release
 
 # Remove the previous results file
 
