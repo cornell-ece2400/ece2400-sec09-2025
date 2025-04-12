@@ -1,0 +1,5 @@
+{
+    "C_Cpp.clang_format_style": "${workspaceFolder}/.clang-format",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "clangd.path": "clangd"
+}
